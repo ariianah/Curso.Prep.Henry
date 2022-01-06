@@ -1,0 +1,14 @@
+Introducción: 
+
+VARIABLES. Las variables son como cajas donde se guarda cierta información para luego ser utilizada. Las variables 
+	mas usadas en javascript son VAR, CONST, LET. 
+
+STRING: Los String se denominan como hilos, es decir, son cadenas de caracteres que se colocan dentro de comillas dobles o 	simples.
+
+FUNCIONES: Las funciones son bloques de codigo que nos ayudan a que una accion se repita las veces que sean necesarias sin 	tener que escribirlas todo el tiempo, las funciones tienen aparejada argumentos, estos ultimos no son mas que 
+	otras variables declaradas que se enceuntran entre parentesis y guian a la funcion con respecto a los datos que se 	les va a pasar. Tambien se encuentran dentro de las funciones el denominado Return, esta palabra clave hace que una 	funcion retorne al inicio dejando sin efecto lo que  puede llegar a escribirse por debajo de ella.   
+
+
+DECLARACIONES: Las declaraciones son acciones que se realizan dentro de un bloque de comandos. Estas pueden contener 	acciones como por ejemplo: IF: si se cumple tal cosa va a pasar esto. ELSE: sino, va a pasar esto otro. ELSE IF: 	sino si se cumple esto va a pasar esto otro. Estas delcaraciones son como condiciones que nos ayudan a resolver la 	mayoria de los problemas que se nos puede presentar.     
+
+VALORES BOOLEANOS: Los valores booleanos son los que arrojan dos tipos de respuestas por un lado verdadero (true) y por el otro falso (false). 
