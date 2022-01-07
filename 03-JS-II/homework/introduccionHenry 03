@@ -1,0 +1,21 @@
+                Bucle FOR
+Este bucle nos ayuda a evaluar una condicion las veces que se le solicite, tiene una similitud con el IF 
+    pero dentro de sus parentesis se utilizan 3 partes a evaluar, por un lado esta la delcaracion de la variable;
+    luego separado de punto y coma se declara la expresion condicional  que es la que nos permite evaluar y por ultimo 
+    se utiliza la incrementacion de variable. 
+    la maquina imprimira todo el recorrido que se le esta solicitando en la condicion, esta debe tener un fin, es decir,
+    si la expresion condicional no tiene un fin esta se repetira sin control en el ordenador, este tipo de problemas
+    es denominado "bucle infinito". 
+
+
+                &&  
+este es un operador logico denominado Y, AND para que este operador funcione la condicion es que debe tener    sus dos argumentos en true y asi devolvera TRUE.
+Pero si alguna de sus expresiones es fale devolvera FALSE. 
+
+                 ||
+Este opertador hace alusion a  Ó, OR 
+este operador devolvera true si ambas o una de sus expresiones son TRUE. 
+De lo contrario si ambas expresiones son False la expresion devolvera FALSE. 
+
+        !
+Este operador hace referencia a NO, NOT y devolvera el valor booleano contrario a lo que se le paso. 
