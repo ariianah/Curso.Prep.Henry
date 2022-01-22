@@ -1,0 +1,17 @@
+INTRODUCCION 
+
+OBJETOS:
+
+Los objetos son como los array, es decir, que pueden almacenar en ellos mucha informacion pero con la 
+diferencia de que se pueden crear muchos objetos con diferente informacion. 
+por ejemplo podemos crear un objeto con el nombre de una persona y dentro de ella poder poner 
+todos los datos de esa persona. 
+
+PROPIEDADES:
+
+ METODOS: 
+
+
+ BUCLE FOR IN...:
+
+ NOTACION DE PUNTO VS NOTACION 
