@@ -1,0 +1,7 @@
+INTRODUCCION 
+
+
+FUNCIONES CALLBACK
+
+Son las funciones que son pasadas como argumento de otra funcion, 
+estas son invocadas en la funcion externa para completar alguna rutina o accion. 
