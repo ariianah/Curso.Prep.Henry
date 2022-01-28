@@ -1,0 +1,24 @@
+h1{
+    background-color: coral;
+};
+spanId{ 
+    font-size: 18px;
+    margin: 50px;
+};
+#thirdDiv{
+     height: 600px;
+     width: 500px;
+     background-color: cyan;
+     padding: 50px;
+     border: darkcyan;
+     border-color: darkgreen;
+     border-style: groove;
+}
+img{
+    width: 400px;
+}
+
+body{
+    background-image: image-set();
+
+}
