@@ -7,11 +7,22 @@ diferencia de que se pueden crear muchos objetos con diferente informacion.
 por ejemplo podemos crear un objeto con el nombre de una persona y dentro de ella poder poner 
 todos los datos de esa persona. 
 
-PROPIEDADES:
+PROPIEDADES: las propiedades es una asociacion entre un nombre ( una clave) y un valor. 
 
- METODOS: 
+ METODOS: los metodos son funciones que se encuentran dentro del objeto
 
 
- BUCLE FOR IN...:
+ BUCLE FOR IN...: este bucle es parecido al ya visto "for" solo que tiene una ligera diferencia, dentro del bucle for in 
+se declaran variables, estas ultimas siempre dentro de parentesis, la palabra clave IN seguida del objeto. 
 
- NOTACION DE PUNTO VS NOTACION 
+ NOTACION DE PUNTO VS NOTACION DE CORCHETES:
+  Estas dos formas son similares.
+  Por un lado con la notacion de punto se puede llamar al objeto seguido de un punto y el nombre de la clave.
+  
+  ejemplo:    user.username;
+
+  Y por otro lado se encuentra la notacion con corchetes, esta es como llamar a un elemento de una matriz. 
+  La diferencia con el anterior es que este tipo de notacion se puede llamar a cada clave que se encuentre entre comillas.
+  Esta forma de notacion es mas que nada para especificar numeros o String.
+
+  ejemplo:  user['username']
